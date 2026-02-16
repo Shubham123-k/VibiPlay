@@ -397,7 +397,10 @@ body {
         width: 25px;
     }
 
-
+    .play>svg {
+        top: 265px;
+        left: 265px;
+    }
 
     .card {
         width: 90vw;
@@ -413,4 +416,5 @@ body {
         justify-content: center;
         margin: 0;
     }
+
 }
